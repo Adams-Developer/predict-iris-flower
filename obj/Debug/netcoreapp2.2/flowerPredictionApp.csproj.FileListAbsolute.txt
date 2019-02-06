@@ -1,0 +1,11 @@
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\bin\Debug\netcoreapp2.2\flowerPredictionApp.deps.json
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\bin\Debug\netcoreapp2.2\flowerPredictionApp.runtimeconfig.json
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\bin\Debug\netcoreapp2.2\flowerPredictionApp.runtimeconfig.dev.json
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\bin\Debug\netcoreapp2.2\flowerPredictionApp.dll
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\bin\Debug\netcoreapp2.2\flowerPredictionApp.pdb
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\obj\Debug\netcoreapp2.2\flowerPredictionApp.csprojAssemblyReference.cache
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\obj\Debug\netcoreapp2.2\flowerPredictionApp.csproj.CoreCompileInputs.cache
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\obj\Debug\netcoreapp2.2\flowerPredictionApp.AssemblyInfoInputs.cache
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\obj\Debug\netcoreapp2.2\flowerPredictionApp.AssemblyInfo.cs
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\obj\Debug\netcoreapp2.2\flowerPredictionApp.dll
+C:\Users\tadam\OneDrive\Desktop\MachineLearning\flowerPredictionApp\obj\Debug\netcoreapp2.2\flowerPredictionApp.pdb
